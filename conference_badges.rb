@@ -11,7 +11,7 @@ def assign_rooms(num)
   num = 1..7
   for speaker in assign_rooms
     puts "Hello, #{name}. You'll be in room #{num}!"
-  end 
+  end
 
   def printer(batch_badge_creator, assign_rooms)
     batch_badge_creator.each do |speakers|
