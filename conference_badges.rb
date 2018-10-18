@@ -17,3 +17,4 @@ def assign_rooms(num)
     batch_badge_creator.each do |speakers|
       puts "Hi, #{batch_badge_creator}. You will be in room #{assign_rooms}"
     end
+end 
